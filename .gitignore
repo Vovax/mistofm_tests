@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+.idea/
+venv/
+__pycache__/
+/secret_data.py
+/*.pyc
+
